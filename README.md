@@ -1,4 +1,7 @@
 # my-first-repo
+# 我的数据结构作业库
 
-this is my first Github project.
+记录我学习数据结构课程的所有代码。
 
+## 📁 作业目录
+* [Assignment 01: 顺序表 (Sequential List)](./Assignment-01)
