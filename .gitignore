@@ -1,0 +1,19 @@
+# Visual Studio 缓存和临时文件
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.db-wal
+*.db-shm
+*.vsidx
+
+# 编译生成的文件
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.ilk
+*.pdb
