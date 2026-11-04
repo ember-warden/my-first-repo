@@ -4,4 +4,4 @@
 记录我学习数据结构课程的所有代码。
 
 ## 📁 作业目录
-* [Assignment 01: 顺序表 (Sequential List)](./Assignment-01)
+* [Assignment 01: 顺序栈 (Sequential Stack)](./Assignment-01)
