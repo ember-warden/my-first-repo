@@ -24,6 +24,7 @@
     <ProjectGuid>{4c8d0df5-f6c8-44c7-9f65-1b9685f02bc4}</ProjectGuid>
     <RootNamespace>seqlistcpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Stack</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
